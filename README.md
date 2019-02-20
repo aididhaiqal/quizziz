@@ -1,4 +1,4 @@
-# quizizz-bot
+# quizizz-bot (Original Github https://github.com/reteps/quizizz-bot)
 
 quizizz bot!
 
